@@ -7,5 +7,9 @@ This project addresses efficient manipulation of data structures and pattern mat
 
 <p align="center">
   <img width="746" alt="Screen Shot 2019-09-16 at 2 14 13 AM" src="https://user-images.githubusercontent.com/32786111/64937352-ef340a00-d827-11e9-9765-e421ac3440ae.png">
-  ![ECE](https://user-images.githubusercontent.com/32786111/64938758-ec87e380-d82c-11e9-97e5-b6f124e9be86.JPG)
 </p>
+
+
+![ECE](https://user-images.githubusercontent.com/32786111/64938861-383a8d00-d82d-11e9-8709-9aad2f57f588.JPG)
+
+
