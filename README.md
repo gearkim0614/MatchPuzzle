@@ -11,7 +11,9 @@ This project addresses efficient manipulation of data structures and pattern mat
 
 # Result
 Static: 36
+
 Dynamic: 190~200
+
 Words used: 9
 
 ![ECE](https://user-images.githubusercontent.com/32786111/64938861-383a8d00-d82d-11e9-8709-9aad2f57f588.JPG)
