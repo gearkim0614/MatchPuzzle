@@ -10,6 +10,12 @@ This project addresses efficient manipulation of data structures and pattern mat
 </p>
 
 # Result
+
+|| Command | Description |
+| --- | --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 -- Static: 36
 
 -- Dynamic: 190~200
