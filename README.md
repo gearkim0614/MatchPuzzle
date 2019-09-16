@@ -9,6 +9,10 @@ This project addresses efficient manipulation of data structures and pattern mat
   <img width="746" alt="Screen Shot 2019-09-16 at 2 14 13 AM" src="https://user-images.githubusercontent.com/32786111/64937352-ef340a00-d827-11e9-9765-e421ac3440ae.png">
 </p>
 
+# Result
+Static: 36
+Dynamic: 190~200
+Words used: 9
 
 ![ECE](https://user-images.githubusercontent.com/32786111/64938861-383a8d00-d82d-11e9-8709-9aad2f57f588.JPG)
 
