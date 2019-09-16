@@ -14,8 +14,8 @@ This project addresses efficient manipulation of data structures and pattern mat
 || Baseline Program | My Program |
 | --- | --- | --- |
 | Static code size: | 30 | 36 |
-| Static code size: | 180 | 195 |
-| Static code size: | 6 | 9 |
+| Dynamic instruction length: | 180 | 195 |
+| Storage required: | 6 | 9 |
 | Grade: | 100% | 95.81% |
 
 ![ECE](https://user-images.githubusercontent.com/32786111/64938861-383a8d00-d82d-11e9-8709-9aad2f57f588.JPG)
