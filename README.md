@@ -11,16 +11,12 @@ This project addresses efficient manipulation of data structures and pattern mat
 
 # Result
 
-|| Command | Description |
+|| Baseline Program | My Program |
 | --- | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
--- Static: 36
-
--- Dynamic: 190~200
-
--- Words used: 9
+| Static code size: | 30 | 36 |
+| Static code size: | 180 | 195 |
+| Static code size: | 6 | 9 |
+| Grade: | 100% | 95.81% |
 
 ![ECE](https://user-images.githubusercontent.com/32786111/64938861-383a8d00-d82d-11e9-8709-9aad2f57f588.JPG)
 
